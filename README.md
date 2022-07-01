@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @alessiamonteiro
 
-- 👀 I’m interested in javascript, CSS, HTML and C++.
+- 👀 I’m interested in javascript, CSS, HTML, Angular, Java e Springboot.
 - 🌱 I’m currently learning web development.
 
 <div>

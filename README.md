@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @alessiamonteiro
 
-- 👀 I’m interested in javascript, CSS, HTML, Angular, Typescript, Java and Springboot.
+- 👀 I’m interested in javascript, CSS, HTML, Angular, Typescript, Java and Spring.
 - 🌱 I’m currently learning web development.
 
 <div>
